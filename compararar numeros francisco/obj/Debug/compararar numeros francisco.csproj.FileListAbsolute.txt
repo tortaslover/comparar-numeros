@@ -1,0 +1,7 @@
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\bin\Debug\compararar numeros francisco.exe.config
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\bin\Debug\compararar numeros francisco.exe
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\bin\Debug\compararar numeros francisco.pdb
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\obj\Debug\compararar numeros francisco.csproj.AssemblyReference.cache
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\obj\Debug\compararar numeros francisco.csproj.CoreCompileInputs.cache
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\obj\Debug\compararar numeros francisco.exe
+C:\Users\LPG\Documents\2434338-A-A-M\compararar numeros francisco\obj\Debug\compararar numeros francisco.pdb
